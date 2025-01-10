@@ -1,0 +1,114 @@
+body{
+    margin: 24px 160px 48px 160px;
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/* navber style */
+#navber{
+    width: 1600px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navber-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+.primary-btn{
+    width: 116px;
+    height: 52px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #006A50;
+    border: 1px solid #006A50;
+    border-radius: 8px;
+    background-color: white;
+}
+.primary-btn:hover{
+    cursor: pointer;
+    color: orange;
+}
+/* banner style */
+.banner{
+    background-color: #C6E4D6;
+    border: 1px solid #C6E4D6;
+    border-radius: 24px;
+    width: 1600px;
+    height: 746px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.banner-container{
+    margin-left: 100px;
+    width: 830px;
+    height: 326px;
+}
+.banner-container-img{
+    width: 474px;
+    height: 400px;
+    margin-right: 100px;
+}
+.banner-sm-title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #0e0e0e7c;
+
+
+}
+.banner-title{
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.btn-secondary{
+    color: white;
+    padding: 8px 16px;
+    width: 280px;
+    height: 56px;
+    font-size: 18px;
+    font-weight: 600;
+    border: 1px #006A50;
+    border-radius: 8px;
+    background-color: #006A50;
+}
+.btn-secondary:hover{
+    cursor: pointer;
+    color: orange;
+}
+/* Pillar section style */
+
+.pillar{
+    margin-top: 80px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.pillar-section{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 42px;
+}
+
+.pillar-section-container{
+    width: auto;
+    height: auto;
+    padding: 32px;
+    border: 1px solid black;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+}
+.pillar-container-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0e0e0ec5;
+}
+.pillar-container-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0e0e0ea4;
+}
+/* Vision section style */
+
