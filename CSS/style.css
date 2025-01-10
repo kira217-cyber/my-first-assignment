@@ -111,4 +111,71 @@ body{
     color: #0e0e0ea4;
 }
 /* Vision section style */
+.vision-section{
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-around;
+    gap: 32px;
+}
+.vision-section-container1{
+    border: 1px solid #548ff534;
+    padding: 32px;
+    border-radius: 16px;
+    background: #548ff534;
+}
+.vision-btn1{
+    color: #FFFFFF;
+    border: 1px solid #5490F5;
+    border-radius: 8px;
+    background-color: #5490F5;
+    font-size: 16;
+    font-weight: 600;
+    padding: 12px 24px;
+    transition: 0.5s;
+}
+.vision-btn1:hover{
+    cursor: pointer;
+    color: orange;
+}
+.vision-section-container2{
+    border: 1px solid #C6E4D6;
+    padding: 32px;
+    border-radius: 16px;
+    background: #C6E4D6;
+}
+.vision-btn2{
+    color: #FFFFFF;
+    border: 1px solid #09A15C;
+    border-radius: 8px;
+    background-color: #09A15C;
+    font-size: 16;
+    font-weight: 600;
+    padding: 12px 24px;
+    transition: 0.5s;
+}
+.vision-btn2:hover{
+    cursor: pointer;
+    color: orange;
+}
+.vision-section-container3{
+    border: 1px solid #F7EBCF;
+    padding: 32px;
+    border-radius: 16px;
+    background: #F7EBCF;
+}
+.vision-btn3{
+    color: #FFFFFF;
+    border: 1px solid #FFC239;
+    border-radius: 8px;
+    background-color: #FFC239;
+    font-size: 16;
+    font-weight: 600;
+    padding: 12px 24px;
+    transition: 0.5s;
+}
 
+.vision-btn3:hover{
+    cursor: pointer;
+    color:rgb(255, 81, 0);
+}
+/*  */
