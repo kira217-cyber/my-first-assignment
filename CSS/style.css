@@ -272,3 +272,37 @@ td{
     margin-bottom: 28px;
     color: #0e0e0eb4;
 }
+/* Donate Today */
+.card-model{
+    display: flex;
+    justify-content: space-around;
+
+}
+.box1{
+    margin-top: 32px;
+    padding: 15px 50px;
+    border: 1px solid black;
+    border-radius: 16px;
+    width: auto;
+    height: 128px;
+    text-align: center;
+}
+.card{
+    font-size: 42px;
+    font-weight: bold;
+    color: #0e0e0ec4;
+}
+.amount{
+    margin-top: 32px;
+    text-align: center;
+}
+.input-amount{
+    font-size: 20px;
+    text-align: center;
+    height: 86px;
+    width: 1376px;
+}
+.done-btn{
+    margin-top: 32px;
+    text-align: center;
+}
