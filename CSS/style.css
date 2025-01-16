@@ -346,3 +346,80 @@ td{
 .social-midea:hover{
     cursor: pointer;
 }
+
+/* Small device Responsive */
+@media screen and (max-width: 576px) {
+    body{
+        margin: 0;
+        width: 100%;
+    }
+    .footer-section{
+        margin-top: 0;
+    }
+    .subscribe-section{
+        height: 100%;
+    }
+    .email-box{
+        width: 200px;
+    }
+    .input-amount{
+        width: 344px;
+    }
+    .card-model{
+        flex-direction: column;
+    }
+    .small-device{
+        margin-top: 20px;
+    }
+    .box1{
+        padding: 0;
+        height: 100%;
+    }
+    .small-device-p{
+        padding: 20px;
+    }
+    .donate{
+        margin-top: 0;
+    }
+    .news-section{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .satelite{
+        width: 100%;
+    }
+    td{
+        padding: 0;
+    }
+    table{
+        width: 100%;
+    }
+    .btn-opinion{
+        padding: 0;
+        width: 120px;
+    }
+    .vision-section{
+        flex-direction: column;
+    }
+    .pillar-section{
+        flex-direction: column;
+    }
+    .banner{
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+    }
+    .banner-container{
+        text-align: center;
+        height: 100%;
+        width: 100%;
+        margin-left: 0;
+    }
+    .banner-container-img{
+        width: 100%;
+        height: 100%;
+    }
+    #navber{
+        width: 100%;
+    }
+}
